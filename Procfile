@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT masaro_kashema_4687.wsgi:application
